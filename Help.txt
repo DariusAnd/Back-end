@@ -1,0 +1,26 @@
+npm i -D nodemon
+ 
+antras etapas:
+npm init -y
+ 
+trecias etapas:
+touch index.html .gitignore README.md NOTES.md
+ 
+ 
+I gitignore:
+ 
+node_modules
+.vscode
+.DS_Store
+
+
+ 
+JS surasikit visas trumpas komandas kurias jus suprantate pvz.:
+ 
+-----
+
+.pop(); // minusoja is galo
+.shift(); // minusoja is priekio
+.push(1); // Pridedame skaiciu 1 i masyva, arba prideda zodi is galo
+.unshift(); // prideda is priekio
+.replaceAll('a', 'b'); // pakeičia tekste visus 'a' i 'b'
