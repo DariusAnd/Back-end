@@ -1,3 +1,4 @@
+console.clear();
 const farm = [
     'Cow',
     'Pig',
@@ -13,3 +14,4 @@ const farm = [
     'Cat',
     'Turkey',
 ];
+
